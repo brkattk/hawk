@@ -16,7 +16,7 @@
     "node": ">=4.5.0"
   },
   "dependencies": {
-    "hoek": "4.x.x",
+    "hoek": "^4.2.1",
     "boom": "4.x.x",
     "cryptiles": "3.x.x",
     "sntp": "2.x.x"
